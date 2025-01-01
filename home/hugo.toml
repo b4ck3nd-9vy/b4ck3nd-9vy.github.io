@@ -1,0 +1,4 @@
+baseURL = 'https://b4ck3nd-9vy.github.io/'
+languageCode = 'en-us'
+title = 'b4ck3nd-9vy'
+theme = 'paper'
